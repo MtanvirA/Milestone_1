@@ -1,0 +1,25 @@
+.header{
+    height: 300px;
+    background-image: url('Dogfight.png');
+    background-repeat:;
+}
+h2{
+    font-size: 25px;
+    background-color: cyan;
+
+}
+
+.test{
+    /* display: none; */
+    /* visibility: hidden;*/
+
+}
+
+.design{
+        background-color: azure;
+        border-radius: 10px;
+        border: 10px solid aquamarine;
+        box-shadow: 10px 10px 20px violet;
+        margin: 20px;
+        padding: 20px;
+}
